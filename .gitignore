@@ -23,3 +23,9 @@ models/*
 outputs/figures/*
 outputs/maps/*
 outputs/tables/*
+
+#.gitkeep files inside models/ and outputs/
+!models/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/maps/.gitkeep
+!outputs/tables/.gitkeep
