@@ -29,3 +29,5 @@ outputs/tables/*
 !outputs/figures/.gitkeep
 !outputs/maps/.gitkeep
 !outputs/tables/.gitkeepoutputs/logs/
+
+outputs/logs/
